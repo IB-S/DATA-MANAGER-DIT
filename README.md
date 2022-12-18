@@ -1,4 +1,7 @@
-![dit]https://dit.sn/wp-content/uploads/2019/03/Logo.png
+# Image Dakar Institute Of Technology
+___
+
+![dit](https://dit.sn/wp-content/uploads/2019/03/Logo.png)
 
 # Installation de la stack technologique
 ___
@@ -46,5 +49,9 @@ ___
 * Manipulation des dictionnaires
 * Manipulation des Listes compréhension
 
-
-	
+ 
+# Controle de flux et boucles
+# Fonctions, Classes et Modules
+# Introduction a Numpy
+# Introduction a Pandas
+# Projet Tutoré	
